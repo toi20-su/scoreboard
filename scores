@@ -1,1 +1,1 @@
-{"test": {"Test01": 100.0, "difference": 30.0}, "test2": {"difference": 100.0}}
+{"test": {"Test01": 100.0, "difference": 30.0}, "test2": {"difference": 100.0, "inversion": 20.0}}
